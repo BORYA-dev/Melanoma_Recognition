@@ -12,6 +12,8 @@ This project utilized various datasets of melanoma images: 40 from the PH2 datas
 ## Tools and statistical methods Used
 - **Python**:
 - **statistical methods**:
+1. Data Sampling 
+2. The research flow chart 
 
 ## Project Structure
 ```plaintext
