@@ -18,18 +18,31 @@ This project utilized various datasets of melanoma images: 40 from the PH2 datas
 
 ## Project Structure
 ```plaintext
-Taiwan_PM2.5_Time_series_analysis/
+Investigation-of-Intelligent-Recognition-of-Melanoma-Based-on-Systematic-Image-Feature-Extraction/
 ├── data/
-    └── pm2.5_withpol.csv  # Hourly data from 2017 to 2023
-├── project/
-    ├── Analysis_process_RMD.docx  # Chinese Version Report in .docx format 
-    ├── Analysis_process_RMD.html  # Chinese Version Report in .html format
-    ├── Analysis_process_RMD.pdf  # Chinese Version Report in .pdf format
-    └── PM2_5_Time_Series_analysis_slides.pdf  # Chinese Version Presentation    
-├── Analysis_code.Rmd # The Rmarkdown file with codes 
+    └── test.jpg  # the sample image
+├── report/
+    ├── flow chart.png  
+    └── report_Chinese.pdf  # Final Report_Chinese Version    
+├── code/ 
+    ├── model/ 
+        ├── CNN_model.ipynb # CNN model building
+        └── ML_models.ipynb # ML_models building i.e Random Forest, SVM,..... 
+    └── Feature_extraction.ipynb # the feature extraction codes
 └── README.md         # This file.
 ```
 ## How to Use
+If you want to check the feature extraction part, 
+
+1. **Install Python** : Download Python Software 
+2. **Download the necessary files** : 
+    - code/Feature_extraction.ipynb (the feature extraction script)
+    - data/test.jpg (the sample image)
+3. **Run the feature extraction script** : Execute the file to see the explicit steps of image processing. 
+
+For model training, you can check code/Model. However, we only providethe code since the original dataset is too large to be included. 
+
+
 ## Contact Information
 For any further discussion or collaboration opportunities, please reach out to me at:
 - Email: [eric304849002@gmail.com](mailto:eric304849002@gmail.com)
