@@ -14,7 +14,7 @@ This project utilized various datasets of melanoma images: 40 from the PH2 datas
 - **statistical methods**:
 1. Data Sampling 
 2. The research flow chart 
-![image]([report/flow chart.png](https://github.com/BORYA-dev/Investigation-of-Intelligent-Recognition-of-Melanoma-Based-on-Systematic-Image-Feature-Extraction/blob/6eecc274687efeafbbc4062b55cd04d52c31dafe/report/flow%20chart.png))
+![image]([report/flow chart.png](https://github.com/BORYA-dev/Investigation-of-Intelligent-Recognition-of-Melanoma-Based-on-Systematic-Image-Feature-Extraction/blob/8300038059ced444df172283c714c099de8df16e/report/flow%20chart.png))
 ## Project Structure
 ```plaintext
 Taiwan_PM2.5_Time_series_analysis/
