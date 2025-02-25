@@ -14,7 +14,7 @@ This project utilized various datasets of melanoma images: 40 from the PH2 datas
 - **statistical methods**:
 1. Data Sampling 
 2. The research flow chart 
-
+![image](report/flow chart.png)
 ## Project Structure
 ```plaintext
 Taiwan_PM2.5_Time_series_analysis/
