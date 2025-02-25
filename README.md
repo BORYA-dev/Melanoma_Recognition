@@ -1,6 +1,8 @@
 # Investigation-of-Intelligent-Recognition-of-Melanoma-Based-on-Systematic-Image-Feature-Extraction
 
 ## Introduction 
+This is my thesis project I made in my junior year, focusing on feature extraction from images and model training using Python. This research identified key features for distinguishing melanoma, namely color, texture and shape. This not only narrows down the scope for subsequent melanoma research but also provides the public with clearer criteria for melanoma identification, facilitating early treatment and improving survival rates.
+
 ## Data Source 
 This project utilized various datasets of melanoma images: 40 from the PH2 dataset [1], 70 from MED-NODE [2], 162 from the ISIC Challenge [3], 584 from Kaggle [4], and 32,042 non-melanoma images, totaling 856 melanoma images and 32,042 non-melanoma images. 
 
@@ -40,7 +42,7 @@ If you want to check the feature extraction part,
     - data/test.jpg (the sample image)
 3. **Run the feature extraction script** : Execute the file to see the explicit steps of image processing. 
 
-For model training, you can check code/Model. However, we only providethe code since the original dataset is too large to be included. 
+For model training, you can check code/Model. However, we only provide the code since the original dataset is too large to be included. 
 
 
 ## Contact Information
